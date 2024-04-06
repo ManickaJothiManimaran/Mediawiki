@@ -3,7 +3,7 @@
 This repository contains Terraform configurations to deploy a basic AWS infrastructure for hosting a MediaWiki application. The infrastructure includes a VPC with public subnets, internet gateway, NAT gateway, EC2 instances running MediaWiki, and associated networking components.
 
 Diagram
-![image](https://github.com/ManickaJothiManimaran/Mediawiki/assets/165898125/57f0824f-7576-49c5-a693-390d0c466f08)
+![MediaWiki Pic](https://github.com/ManickaJothiManimaran/Mediawiki/assets/165898125/ec567a1a-971a-4793-a11f-0ed9b9025972)
 
 ## Table of Contents
 
